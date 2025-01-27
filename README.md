@@ -24,3 +24,11 @@ Compliance Issues: Organizations may face compliance issues if they do not have 
 Increased Risk: The overall risk of cyberattacks increases without proactive monitoring and management of network devices.
 
 
+Import the repository
+
+git clone https://github.com/BongoniDevendarGoud/Network-Scanner.git
+
+cd Network-Scanner
+
+pip install scapy
+
